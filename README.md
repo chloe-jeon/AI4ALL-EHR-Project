@@ -1,4 +1,4 @@
-# AI4ALL-UCSF-EHR-Project
+# AI4ALL UCSF EHR Project
 
 Over the summer of 2019, I worked at UCSF alongside three other girls, under the mentorship of Jean Costello, a UCSF graduate student, to identify patterns in synthetic electronic health records (EHRs). Although we all used the same methods, we each worked on our own separate projects, analyzing a specific disease or condition. My specific project focused on depression and related disorders.
 
